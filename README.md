@@ -10,6 +10,10 @@ This is Casptone Project in the certificate program of Ryerson Uiversity Big Dat
 
 In this Capstone project, the business problem and solution fall under text mining and sentiment analysis using Natural Language Processing (NLP) to transform unstructured data concentrating on text format news. The model will automate the detection of fake news by using the techniques of Machine learning and Artificial Intelligence. The Database, Fake news is selected from Kaggle.
 
+Algorithmns Modeled: 
+1. Logistic Regression model
+2. Naive Bayes
+3. Decision Tree Model
 
 
 References: 
